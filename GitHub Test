@@ -1,9 +1,5 @@
 GitHub Test
 
-
-
-
-
 		for (int num = 1; num <= 24; num++) {
 
             if (num % 2 == 0 && num % 3 == 0 && num % 5 == 0) {
@@ -24,6 +20,3 @@ GitHub Test
                 System.out.println(num);
             }
 		}
-
-
-		
